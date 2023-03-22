@@ -14,3 +14,5 @@ As a M.Sc.Eng. student at University of Siegen, I have specialized in the areas 
 * Pointnet: 3D Object Classification, Semantic and Part Segmentation on 3D Point Clouds.
 * Image Classification
 * Pick and Place Operation on Lego Mindstrom EV3 Manipulator robot.
+* YOLO v3
+* Semantic Segmentation using UNet
