@@ -90,7 +90,10 @@ I'm passionate about solving real-world problems with applied AI, and I love bui
 ![MATLAB & Simulink Onramp](https://img.shields.io/badge/MATLAB%20&%20Simulink-0076a8?style=flat&logo=MathWorks&logoColor=white)
 
 ---
-### 🗂️ Project Portfolio
+<details>
+<summary>🗂️ <strong>Project Portfolio</strong> (Click to expand)</strong></summary>
+
+<br>
 
 | Domain      | Category | Project Title                                                                                       | Description                                                                                      |
 |-------------|----------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
@@ -102,7 +105,10 @@ I'm passionate about solving real-world problems with applied AI, and I love bui
 | 🧠 AI        | CV       | [Multi-Task AD Network](https://github.com/Rishav-Paramhans)                                       | Autonomous driving network combining object detection, depth estimation, and segmentation       |
 | 🧠 AI        | CV       | [Image Classification](https://github.com/Rishav-Paramhans/Image_Classification)                  | Classical and deep CNN approaches to image classification                                       |
 | 🤖 Robotics | CV       | [Pick and Place EV3 Robot](https://github.com/Rishav-Paramhans/Pick_Place_EV3_Manipulator_Robot)   | Robotic arm simulation for pick & place using LEGO Mindstorms                                   |
-| 🧠 AI    | NLP    | [Video Summarization Using AI](https://github.com/Rishav-Paramhans/Video_Summarization_Using_AI)  | AI-based summarization of video content                                                         |
+| 🧠 AI        | NLP      | [Video Summarization Using AI](https://github.com/Rishav-Paramhans/Video_Summarization_Using_AI)  | AI-based summarization of video content                                                         |
+
+</details>
+
 
 
 
