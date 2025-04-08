@@ -24,23 +24,23 @@ I'm passionate about solving real-world problems with applied AI, and I love bui
 
 ### 🧰 Tech Stack
 
-<!-- Languages & Frontend -->
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
+**🖥️ Languages & Frontend**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
+![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=gnubash)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
-![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=gnubash)
 
-<!-- Backend & Frameworks -->
+**⚙️ Backend & Frameworks**  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
 ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-333333?style=flat)
 ![Phidata](https://img.shields.io/badge/-Phidata-333333?style=flat)
 ![ROS](https://img.shields.io/badge/-ROS-333333?style=flat)
 
-<!-- ML & NLP Libraries -->
+**🧠 ML & NLP Libraries**  
 ![Transformers](https://img.shields.io/badge/-Transformers-333333?style=flat&logo=huggingface)
 ![spaCy](https://img.shields.io/badge/-spaCy-333333?style=flat)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
@@ -48,7 +48,7 @@ I'm passionate about solving real-world problems with applied AI, and I love bui
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-333333?style=flat&logo=scikitlearn)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-333333?style=flat)
 
-<!-- DevOps & Infra -->
+**☁️ DevOps & Infra**  
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
@@ -56,15 +56,13 @@ I'm passionate about solving real-world problems with applied AI, and I love bui
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
 
-<!-- Vector DBs & Caching -->
+**🗃️ Vector DBs & Caching**  
 ![Weaviate](https://img.shields.io/badge/-Weaviate-333333?style=flat)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 
-<!-- MLOps & Monitoring -->
+**📊 MLOps & Monitoring**  
 ![Weights & Biases](https://img.shields.io/badge/-WandB-333333?style=flat&logo=weightsandbiases)
 ![MLflow](https://img.shields.io/badge/-MLflow-333333?style=flat)
-
----
 
 
 ---
