@@ -9,34 +9,53 @@
 
 ### 🧠 About Me
 
-- 🔬 I'm focused on **NLP and GenAI**, building scalable AI systems using LLMs, LangChain, and vector search.
-- ☁️ AWS Certified: Cloud Practitioner, Solutions Architect, and Machine Learning Specialty.
-- ⚙️ Backend engineer at heart — FastAPI, Redis, Weaviate, Docker, EKS... I speak DevOps too.
-- 🛠 I recently built a **Multi-Tenant RAG Platform** using OpenAI, Ollama, LangGraph, and Weaviate — fully production-ready.
-- 🌱 Currently exploring **LLM evaluation frameworks**, **LangChain agents**, and **LangGraph-based orchestration**.
+I'm a **Software Engineer – Autonomous Driving & AI** at **IAV GmbH**, currently based in **Munich, Germany**. I work at the intersection of **cutting-edge AI research** and **high-performance production systems**, bridging the gap between real-time simulation, perception pipelines, and cloud-native GenAI applications.
 
----
+- 🚗 At IAV, I’m contributing to **BMW’s next-generation L2/L3 ADAS platform**, working on both the **feature stack** and **simulation infrastructure** — ensuring robust validation pipelines using tools like ROS, MATLAB, and CI-enabled trace analysis systems.
+- 🧠 I’ve also built **GenAI-powered scenario generation tools** using **LLMs + Digital Twins** to automatically create edge-case simulations — cutting manual engineering hours and improving test coverage.
+- 🛠 With a strong software engineering foundation, I build **modular, scalable systems** using FastAPI, Docker, LangChain, and Weaviate — integrated with **CI/CD pipelines on AWS EKS** using Terraform and Jenkins.
+- 🧪 I take full ownership of the AI lifecycle — from NLP research and LLM evaluation to deployment in microservices with full observability and multi-tenancy support.
 
-### 🚀 Featured Projects
+I'm passionate about solving real-world problems with applied AI, and I love building systems that don't just demo well — they **scale, ship, and serve users**.
 
-- 🔍 [**Multi-Modal RAG System**](https://github.com/Rishav-Paramhans/Oollama-langchain-rag-app): Scalable RAG platform with OpenAI, Ollama, LangGraph, Weaviate, FastAPI & Redis — deployed on AWS EKS using Terraform.
-- 🧠 [**NLP Pipeline Toolkit**](#): Semantic chunking, query contextualization, and custom re-ranking for context-rich LLM responses.
-- ⚙️ [**LLM CI/CD Infra**](#): Automated deployment pipeline using Jenkins + Terraform for cloud-native LLM services on Kubernetes.
+
 
 ---
 
 ### 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
+![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat)
+![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=gnu-bash)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
 ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
-![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
-![Weaviate](https://img.shields.io/badge/-Weaviate-333333?style=flat)
-![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
+![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
+![Transformers](https://img.shields.io/badge/-HuggingFace-333333?style=flat&logo=hugging-face)
+![ROS](https://img.shields.io/badge/-ROS-333333?style=flat)
+![Weaviate](https://img.shields.io/badge/-Weaviate-333333?style=flat)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+![Weights & Biases](https://img.shields.io/badge/-WandB-333333?style=flat&logo=weightsandbiases)
+![MLflow](https://img.shields.io/badge/-MLflow-333333?style=flat)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishav-Paramhans&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishav-Paramhans&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rishav-Paramhans&theme=tokyonight" />
+</p>
 
 ---
 
@@ -58,39 +77,15 @@
 
 ### 📜 Certifications
 
-- ✅ AWS Certified Machine Learning – Specialty
-- ✅ AWS Solutions Architect – Associate
-- ✅ AWS Certified Cloud Practitioner
-- 🧠 AI Agents in LangGraph – DeepLearning.AI (Mar 2025)
-- 📘 NLP with Classification and Vector Spaces – Stanford (Coursera)
-- 🤖 ROS – Robot Ignite Academy
-- 🧪 MATLAB & Simulink Onramp – MathWorks
+- ✅ AWS Certified Machine Learning – Specialty  
+- ✅ AWS Solutions Architect – Associate  
+- ✅ AWS Certified Cloud Practitioner  
+- 🧠 AI Agents in LangGraph – DeepLearning.AI (Mar 2025)  
+- 📘 NLP with Classification and Vector Spaces – Stanford (Coursera)  
+- 🤖 ROS – Robot Ignite Academy  
+- 🧪 MATLAB & Simulink Onramp – MathWorks  
 
 ---
 
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-linkedin-username)  
-[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/Rishav-Paramhans)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:your.email@example.com)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishav-Paramhans&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishav-Paramhans&theme=tokyonight" />
-</p>
-
----
-
-### 🙏 Thank You for Reading
-
-If you made it this far, thank you for taking the time to read through my journey. I genuinely appreciate it. I hope this post offered you something useful — whether it was inspiration, a tool, or a tiny insight.
-
-👉 Connect with me on [LinkedIn](https://linkedin.com/in/your-linkedin-username)  
-👉 Check out more on my [GitHub](https://github.com/Rishav-Paramhans)
-
-> *(Don’t forget to update your actual LinkedIn username and email address!)*
-
+> 🔗 Want to connect professionally?  
+> Check out my [GitHub](https://github.com/Rishav-Paramhans) or [LinkedIn](https://www.linkedin.com/in/your-linkedin-here) — always open to exciting AI/ML opportunities!
