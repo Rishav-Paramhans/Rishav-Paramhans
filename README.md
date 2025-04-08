@@ -5,20 +5,34 @@
   🚀 Building intelligent systems that scale — from vector search to LLMs in the cloud 🌍  
 </p>
 
+<p align="center">
+  <a href="https://github.com/Rishav-Paramhans">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rishav-kumar-paramhans">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rishavkrparamhans@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rishavkrparamhans@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ### 🧠 About Me
 
-I'm a **Software Engineer – Autonomous Driving & AI** at **IAV GmbH**, currently based in **Munich, Germany**. I work at the intersection of **cutting-edge AI research** and **high-performance production systems**, bridging the gap between real-time simulation, perception pipelines, and cloud-native GenAI applications.
+- 🧑‍💻 Software Engineer – Autonomous Driving & AI at **IAV GmbH**, Munich, Germany
+- 🧠 Focus: **NLP, GenAI, ADAS**, and real-time simulation systems
+- 🚗 Working on **BMW’s next-generation L2/L3 ADAS platform** — **feature stack** and **simulation infrastructure**
+- 🤖 Built **LLM-powered scenario generation** using GenAI + Digital Twins
+- 🛠 Skilled in **FastAPI, Docker, LangChain, Weaviate**, AWS EKS, and CI/CD
+- 🧪 Own the **end-to-end AI lifecycle**: from fine-tuning to cloud deployment
+- 🧱 Experience with **multi-tenant microservices** and secure vector-based RAG systems
+- 🔍 Passionate about shipping **production-grade AI**, not just prototypes
+- 🌱 Exploring **LangGraph**, agents, and advanced evaluation for GenAI systems
 
-- 🚗 At IAV, I’m contributing to **BMW’s next-generation L2/L3 ADAS platform**, working on both the **feature stack** and **simulation infrastructure** — ensuring robust validation pipelines using tools like ROS, MATLAB, and CI-enabled trace analysis systems.
-- 🧠 I’ve also built **GenAI-powered scenario generation tools** using **LLMs + Digital Twins** to automatically create edge-case simulations — cutting manual engineering hours and improving test coverage.
-- 🛠 With a strong software engineering foundation, I build **modular, scalable systems** using FastAPI, Docker, LangChain, and Weaviate — integrated with **CI/CD pipelines on AWS EKS** using Terraform and Jenkins.
-- 🧪 I take full ownership of the AI lifecycle — from NLP research and LLM evaluation to deployment in microservices with full observability and multi-tenancy support.
 
 I'm passionate about solving real-world problems with applied AI, and I love building systems that don't just demo well — they **scale, ship, and serve users**.
-
-
 
 ---
 
@@ -41,7 +55,7 @@ I'm passionate about solving real-world problems with applied AI, and I love bui
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-333333?style=flat&logo=scikitlearn)
-![XGBoost](https://img.shields.io/badge/-XGBoost-333333?style=flat)
+![XGBoost](https://img.shields.io/badge/-XGBoost-333333?style=flat) 
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
@@ -51,6 +65,7 @@ I'm passionate about solving real-world problems with applied AI, and I love bui
 ![Weaviate](https://img.shields.io/badge/-Weaviate-333333?style=flat)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 ![MLflow](https://img.shields.io/badge/-MLflow-333333?style=flat)
+![Weights & Biases](https://img.shields.io/badge/-WandB-333333?style=flat&logo=weightsandbiases)
 
 ---
 
@@ -83,15 +98,11 @@ I'm passionate about solving real-world problems with applied AI, and I love bui
 
 ### 📜 Certifications
 
-- ✅ AWS Certified Machine Learning – Specialty  
-- ✅ AWS Solutions Architect – Associate  
-- ✅ AWS Certified Cloud Practitioner  
-- 🧠 AI Agents in LangGraph – DeepLearning.AI (Mar 2025)  
-- 📘 NLP with Classification and Vector Spaces – Stanford (Coursera)  
-- 🤖 ROS – Robot Ignite Academy  
-- 🧪 MATLAB & Simulink Onramp – MathWorks  
+![AWS Certified Machine Learning – Specialty](https://img.shields.io/badge/AWS%20ML%20Specialty-232f3e?style=flat&logo=amazon-aws&logoColor=white)
+![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect-232f3e?style=flat&logo=amazon-aws&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232f3e?style=flat&logo=amazon-aws&logoColor=white)
+![AI Agents in LangGraph – DeepLearning.AI](https://img.shields.io/badge/LangGraph%20AI%20Agents-06B6D4?style=flat&logo=openai&logoColor=white)
+![NLP with Classification – Stanford](https://img.shields.io/badge/Stanford%20NLP%20Course-b7312f?style=flat&logo=coursera&logoColor=white)
+![ROS – Robot Ignite Academy](https://img.shields.io/badge/ROS%20Basics%20Certified-22314e?style=flat&logo=ros&logoColor=white)
+![MATLAB & Simulink Onramp](https://img.shields.io/badge/MATLAB%20&%20Simulink-0076a8?style=flat&logo=MathWorks&logoColor=white)
 
----
-
-> 🔗 Want to connect professionally?  
-> Check out my [GitHub](https://github.com/Rishav-Paramhans) or [LinkedIn](https://www.linkedin.com/in/your-linkedin-here) — always open to exciting AI/ML opportunities!
