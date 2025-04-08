@@ -79,7 +79,17 @@ I'm passionate about solving real-world problems with applied AI, and I love bui
 </p>
 
 ---
+### 📜 Certifications
 
+![AWS Certified Machine Learning – Specialty](https://img.shields.io/badge/AWS%20ML%20Specialty-232f3e?style=flat&logo=amazon-aws&logoColor=white)
+![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect-232f3e?style=flat&logo=amazon-aws&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232f3e?style=flat&logo=amazon-aws&logoColor=white)
+![AI Agents in LangGraph – DeepLearning.AI](https://img.shields.io/badge/LangGraph%20AI%20Agents-06B6D4?style=flat&logo=openai&logoColor=white)
+![NLP with Classification – Stanford](https://img.shields.io/badge/Stanford%20NLP%20Course-b7312f?style=flat&logo=coursera&logoColor=white)
+![ROS – Robot Ignite Academy](https://img.shields.io/badge/ROS%20Basics%20Certified-22314e?style=flat&logo=ros&logoColor=white)
+![MATLAB & Simulink Onramp](https://img.shields.io/badge/MATLAB%20&%20Simulink-0076a8?style=flat&logo=MathWorks&logoColor=white)
+
+---
 ### 🗂️ Project Portfolio
 
 | Domain      | Category | Project Title                                                                                       | Description                                                                                      |
@@ -92,17 +102,9 @@ I'm passionate about solving real-world problems with applied AI, and I love bui
 | 🧠 AI        | CV       | [Multi-Task AD Network](https://github.com/Rishav-Paramhans)                                       | Autonomous driving network combining object detection, depth estimation, and segmentation       |
 | 🧠 AI        | CV       | [Image Classification](https://github.com/Rishav-Paramhans/Image_Classification)                  | Classical and deep CNN approaches to image classification                                       |
 | 🤖 Robotics | CV       | [Pick and Place EV3 Robot](https://github.com/Rishav-Paramhans/Pick_Place_EV3_Manipulator_Robot)   | Robotic arm simulation for pick & place using LEGO Mindstorms                                   |
-| 🧑‍💻 Software Dev | -    | [Video Summarization Using AI](https://github.com/Rishav-Paramhans/Video_Summarization_Using_AI)  | AI-based summarization of video content                                                         |
+| 🧠 AI    | NLP    | [Video Summarization Using AI](https://github.com/Rishav-Paramhans/Video_Summarization_Using_AI)  | AI-based summarization of video content                                                         |
 
----
 
-### 📜 Certifications
 
-![AWS Certified Machine Learning – Specialty](https://img.shields.io/badge/AWS%20ML%20Specialty-232f3e?style=flat&logo=amazon-aws&logoColor=white)
-![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect-232f3e?style=flat&logo=amazon-aws&logoColor=white)
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232f3e?style=flat&logo=amazon-aws&logoColor=white)
-![AI Agents in LangGraph – DeepLearning.AI](https://img.shields.io/badge/LangGraph%20AI%20Agents-06B6D4?style=flat&logo=openai&logoColor=white)
-![NLP with Classification – Stanford](https://img.shields.io/badge/Stanford%20NLP%20Course-b7312f?style=flat&logo=coursera&logoColor=white)
-![ROS – Robot Ignite Academy](https://img.shields.io/badge/ROS%20Basics%20Certified-22314e?style=flat&logo=ros&logoColor=white)
-![MATLAB & Simulink Onramp](https://img.shields.io/badge/MATLAB%20&%20Simulink-0076a8?style=flat&logo=MathWorks&logoColor=white)
+
 
